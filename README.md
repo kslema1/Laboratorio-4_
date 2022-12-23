@@ -94,13 +94,13 @@ Calcular errores de las mediciones y comentar los resultados.
 
 Calculo de error del voltaje
 
-imagen de errores
+![image](https://user-images.githubusercontent.com/116772752/209259729-58d88144-7a77-4b52-88ba-3895b32a49e6.png)
 
 ![image](https://user-images.githubusercontent.com/116772752/209048498-85c14d1f-3afb-4e07-94fc-5b6b3dcd81af.png)
 
 Calculo de error de corriente
 
-imagenes de error
+![image](https://user-images.githubusercontent.com/116772752/209259802-cfc2ab77-a8cc-48ff-8cc2-6f69df84280b.png)
 
 ![image](https://user-images.githubusercontent.com/116772752/209049233-14667c01-0297-4606-9c58-cbc4602c3899.png)
 
