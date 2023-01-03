@@ -106,7 +106,7 @@ Calculo de error de corriente
 
 4. VIDEO:
 
-ksdhbvhsbvnojnorn
+https://youtu.be/u_K0F-zUih4
 
 5. CONCLUSIONES:
 
